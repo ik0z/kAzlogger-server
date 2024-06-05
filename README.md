@@ -12,7 +12,7 @@ KeyServ is a C# application designed to monitor keystrokes and display them in r
 
 ## Usage
 
-1. Run the application. It will minimize to the system tray.
+1. Run the application as administrator . It will minimize to the system tray.
 2. Access the web interface by navigating to `http://localhost:7744/index.html` in your web browser.
 3. Authenticate using the credentials:
    - Username: `kaz`
