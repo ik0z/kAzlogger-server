@@ -38,6 +38,8 @@ Errors are logged to `error.log` in the application's directory.
 
 **Warning:** This application is intended for educational purposes only. Unauthorized use of keylogging software is illegal and unethical. Ensure you have explicit permission from the owner of the device before running this application. The developer is not responsible for any misuse of this software.
 
+## PoC 
+![alt text](https://github.com/ik0z/kAzlogger-server/blob/main/PoC.png)
 
 ## Acknowledgements
 
